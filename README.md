@@ -13,9 +13,10 @@ Desenvolvedor Front‑end com foco em JavaScript/TypeScript e criação de inter
 
 Skills técnicas
 ---------------
-- TypeScript
-- JavaScript (ES6+)  
-- React —
 - HTML5 / CSS3
+- JavaScript
+- TypeScript
+- React
+- Nextjs
 - Tailwind
 - Ferramentas: Git, GitHub, Vite, npm/yarn
